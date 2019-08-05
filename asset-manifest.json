@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/component-talntfest/static/css/main.2cce8147.chunk.css",
+    "main.js": "/component-talntfest/static/js/main.9bfaf32c.chunk.js",
+    "main.js.map": "/component-talntfest/static/js/main.9bfaf32c.chunk.js.map",
+    "runtime~main.js": "/component-talntfest/static/js/runtime~main.8420fed0.js",
+    "runtime~main.js.map": "/component-talntfest/static/js/runtime~main.8420fed0.js.map",
+    "static/css/2.cc034990.chunk.css": "/component-talntfest/static/css/2.cc034990.chunk.css",
+    "static/js/2.1781a99f.chunk.js": "/component-talntfest/static/js/2.1781a99f.chunk.js",
+    "static/js/2.1781a99f.chunk.js.map": "/component-talntfest/static/js/2.1781a99f.chunk.js.map",
+    "index.html": "/component-talntfest/index.html",
+    "precache-manifest.38eb318ac7e19ab61129b316ac8064f0.js": "/component-talntfest/precache-manifest.38eb318ac7e19ab61129b316ac8064f0.js",
+    "service-worker.js": "/component-talntfest/service-worker.js",
+    "static/css/2.cc034990.chunk.css.map": "/component-talntfest/static/css/2.cc034990.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/component-talntfest/static/css/main.2cce8147.chunk.css.map"
+  }
+}
